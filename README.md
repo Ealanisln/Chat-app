@@ -1,3 +1,12 @@
+Chat App
+
+Was created based following a YouTube tutorial.
+
+Build A Chat App With React And Firebase v9
+https://www.youtube.com/watch?v=PJCr_aoOv68&t=2681s
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
